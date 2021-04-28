@@ -21,7 +21,8 @@
 # is the fips code for the US region. STATE is the fips code for the US state
 # The other values are as per the data dictionary at:
 # https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2019/nst-est2019-alldata.pdf
-
+# Note that each question will build on the modified dataframe from the
+# question before.
 
 # Question 1: Load the population estimates file into a dataframe. Specify
 # an absolute path using the Python os library to join filenames, so that
