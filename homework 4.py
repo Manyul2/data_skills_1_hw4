@@ -1,13 +1,13 @@
 # PPHA 30535
-# Spring 2021
-# Homework 4
+# Spring 2022
+# Homework 4 and 5
 
 # YOUR NAME HERE
 
 # YOUR CANVAS NAME HERE
 # YOUR GITHUB USER NAME HERE
 
-# Due date: Sunday May 2nd before midnight
+# Due date: Sunday May 8th before midnight
 # Write your answers in the space between the questions, and commit/push only
 # this file to your repo. Note that there can be a difference between giving a
 # "minimally" right answer, and a really good answer, so it can pay to put
