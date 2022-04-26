@@ -11,7 +11,7 @@
 # Write your answers in the space between the questions, and commit/push only
 # this file to your repo. Note that there can be a difference between giving a
 # "minimally" right answer, and a really good answer, so it can pay to put
-# thought into your work.
+# thought into your work. Using functions for organization will be rewarded.
 
 ##################
 
