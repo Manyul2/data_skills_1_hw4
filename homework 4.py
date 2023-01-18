@@ -3,8 +3,6 @@
 # Homework 4 and 5
 
 # YOUR NAME HERE
-
-# YOUR CANVAS NAME HERE
 # YOUR GITHUB USER NAME HERE
 
 # Due date: Sunday May 8th before midnight
@@ -46,11 +44,11 @@
 # the index to the default values if any of your data is located in the index.
 
 
-# Question 5: Open the state-visits.csv file, and fill in the VISITED column
-# with a dummy variable for whether you've visited a state or not.  If you
-# haven't been to many states, then filling in a random selection of them
-# is fine too.  Save your changes.  Then load the file as a dataframe in
-# Python, and merge the visited column into your population dataframe, only
+# Question 5: Open the state-visits.csv file with Excel, and fill in the 
+# VISITED column with a dummy variable for whether you've visited a state or 
+# not.  If you haven't been to many states, then filling in a random selection 
+# of them is fine too.  Save your changes.  Then load the file as a dataframe 
+# in Python, and merge the visited column into your population dataframe, only
 # keeping values that appear in both dataframes.  Are any observations
 # dropped from this?  Show code where you investigate your merge, and
 # display any observations that weren't in both dataframes.
