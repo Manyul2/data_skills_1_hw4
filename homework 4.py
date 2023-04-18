@@ -42,7 +42,7 @@
 
 # Question 4: Subset the data so that only observations for individual
 # US states remain, and only state names and data for the population
-# estimates in 2010-2019 remain.  The dataframe should now have 4 columns.
+# estimates in 2020-2022 remain.  The dataframe should now have 4 columns.
 
 
 # Question 5: Show only the 10 largest states by 2021 population estimates, in
