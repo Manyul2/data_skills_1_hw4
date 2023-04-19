@@ -40,7 +40,7 @@
 
 
 # Question 4: Subset the data so that only observations for individual
-# US states remain, and only state names and data for the population
+# US states remain, and only state abbreviations and data for the population
 # estimates in 2020-2022 remain.  The dataframe should now have 4 columns.
 
 
