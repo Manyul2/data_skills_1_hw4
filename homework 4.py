@@ -35,9 +35,8 @@
 
 # Question 3: Then show code doing some basic exploration of the
 # dataframe; imagine you are an intern and are handed a dataset that your
-# boss isn't familiar with, and asks you to summarize for them.  At least
-# one of your summary stats should use groupby.  Show the relevant 
-# exploration output with print() statements.
+# boss isn't familiar with, and asks you to summarize it for them.  Show 
+# some relevant exploration output with print() statements.
 
 
 # Question 4: Subset the data so that only observations for individual
